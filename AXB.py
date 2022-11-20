@@ -294,8 +294,8 @@ class __xxx__:
                         if len(xz) == 3 or len(xz) == 4 or len(xz) == 5 or len(xz) == 6:
                             pwx = [firstl+' '+lastl, xz[0]+"12345", xz[0]+"123"]
                         else:
-                             pwv.append(nmf)
-			  pwv.append(nmf)
+                             pwv.append(nmb)
+			  pwv.append(nmb)
 			  pwv.append(frs+'123')
 			  pwv.append(frs+'786')
 			  pwv.append(frs+'1234')
@@ -362,8 +362,8 @@ class __xxx__:
                         if len(xz) == 3 or len(xz) == 4 or len(xz) == 5 or len(xz) == 6:
                             pwx = [firstl+' '+lastl,firstl+lastl, first+' '+lasts, first+"123"]
                         else:
-                            pwv.append(nmf)
-			  pwv.append(nmf)
+                            pwv.append(nmb)
+			  pwv.append(nmb)
 			  pwv.append(frs+'123')
 			  pwv.append(frs+'786')
 			  pwv.append(frs+'1234')
@@ -393,8 +393,8 @@ class __xxx__:
                         if len(xz) == 3 or len(xz) == 4 or len(xz) == 5 or len(xz) == 6:
                             pwx = [name, xz[0]+xz[1]]
                         else:
-                            pwv.append(nmf)
-			  pwv.append(nmf)
+                            pwv.append(nmb)
+			  pwv.append(nmb)
 			  pwv.append(frs+'123')
 			  pwv.append(frs+'786')
 			  pwv.append(frs+'1234')
@@ -424,8 +424,8 @@ class __xxx__:
                         if len(xz) == 3 or len(xz) == 4 or len(xz) == 5 or len(xz) == 6:
                             pwx = [name, xz[0]+xz[1], xz[0]+xz[1]+"123", xz[0]+xz[1]+"12345"]
                         else:
-                            pwv.append(nmf)
-			  pwv.append(nmf)
+                            pwv.append(nmb)
+			  pwv.append(nmb)
 			  pwv.append(frs+'123')
 			  pwv.append(frs+'786')
 			  pwv.append(frs+'1234')
@@ -479,8 +479,8 @@ class __xxx__:
                         if len(xz) == 3 or len(xz) == 4 or len(xz) == 5 or len(xz) == 6:
                             pwx = [firstl+' '+lastl]
                         else:
-                            pwv.append(nmf)
-			  pwv.append(nmf)
+                            pwv.append(nmb)
+			  pwv.append(nmb)
 			  pwv.append(frs+'123')
 			  pwv.append(frs+'786')
 			  pwv.append(frs+'1234')
@@ -515,8 +515,8 @@ class __xxx__:
                         if len(xz) == 3 or len(xz) == 4 or len(xz) == 5 or len(xz) == 6:
                             pwx = [firstl+' '+lastl, xz[0]+"12345", xz[0]+"123"]
                         else:
-                            pwv.append(nmf)
-			 pwv.append(nmf)
+                            pwv.append(nmb)
+			 pwv.append(nmb)
 			 pwv.append(frs+'123')
 			 pwv.append(frs+'786')
 			 pwv.append(frs+'1234')
@@ -551,8 +551,8 @@ class __xxx__:
                         if len(xz) == 3 or len(xz) == 4 or len(xz) == 5 or len(xz) == 6:
                             pwx = [firstl+' '+lastl,firstl+lastl, first+"123", first+"12345", first+"786"]
                         else:
-                            pwv.append(nmf)
-			 pwv.append(nmf)
+                            pwv.append(nmb)
+			 pwv.append(nmb)
 			 pwv.append(frs+'123')
 			 pwv.append(frs+'786')
 			 pwv.append(frs+'1234')
